@@ -20,7 +20,7 @@ This is a simple command-line Hangman game implemented in C++. The game selects 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/hangman-game.git
+    git clone https://github.com/aashish-thapa/hangman-game.git
     cd hangman-game
     ```
 
